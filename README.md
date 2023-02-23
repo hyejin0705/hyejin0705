@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0705&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin0705&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin0705&layout=compact)
 
   </div>
 
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
   <p><b>⚡ Back-end Stack </b></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
-  <br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+   
+  <br/>
+  <br/>
+  
   <p><b>🔭 Front-end Stack</b></p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
