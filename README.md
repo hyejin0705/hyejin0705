@@ -16,17 +16,31 @@ Here are some ideas to get you started:
 <div align="center">
 
   <h1>✨ Hyejin's Github ✨</h1>
-
-  <div style="display:flex; justify-content:space-evenly;">
   
-  ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0705&theme=radical&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin0705&layout=compact)
-
-  </div>
-
+  <!-- 기술스택 -->
+  <p><b>⚡ Data Analysis Stack  </b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+   <br/>
+  
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  
   <br/>
+  
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 
+   
+  <br/>
+  <br/>
+  
   <p><b>⚡ Back-end Stack </b></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
@@ -49,9 +63,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 
   <br/>
+  
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-40B5A4?style=flat-square&logo=React&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <br/>
   <br/>
   
+  <!--  깃헙에 올린 언어들  -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin0705&layout=compact)
+  
+  <!--  깃헙 랭킹?  -->
+  ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0705&theme=radical&show_icons=true)
+
+  <br/>
+  <br/>
+  
+  <!--  백준 랭킹  -->
   <p><b>🌱 Algorithm</b></p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyejin0705)](https://solved.ac/hyejin0705/)
