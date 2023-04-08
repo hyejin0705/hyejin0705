@@ -68,11 +68,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-40B5A4?style=flat-square&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  
+  <br/>
   <br/>
   <br/>
   
   <!--  깃헙에 올린 언어들  -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin0705&layout=compact)
+  
+  <br/>
+  <br/>
   
   <!--  깃헙 랭킹?  -->
   ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0705&theme=radical&show_icons=true)
