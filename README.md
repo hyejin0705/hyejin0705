@@ -68,6 +68,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-40B5A4?style=flat-square&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Threejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=reactQuery&logoColor=white"/>
   
   <br/>
   <br/>
