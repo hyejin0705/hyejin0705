@@ -71,6 +71,7 @@ Here are some ideas to get you started:
   
   <br/>
   
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Query-3178C6?style=flat-square&logo=React&logoColor=white"/>
   
